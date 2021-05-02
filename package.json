@@ -1,0 +1,13 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "for learning typescript",
+  "main": "index.js",
+  "repository": "https://github.com/limi6n/typechain.git",
+  "author": "limi6n <6nlimitless@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
